@@ -2,6 +2,8 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
+  align-items: center;
+  justify-content: space-between; /* Do this instead of out-commented block lmao */
 }
 
 .logo {
@@ -15,6 +17,7 @@
   align-items: center;
 }
 
+/*
 .left-links {
   display: flex;
   flex: 1 1 auto;
@@ -28,6 +31,7 @@
   justify-content: flex-end;
 
   }
+*/
 
 ul {
   display: flex;
